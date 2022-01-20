@@ -1,0 +1,19 @@
+{
+  "name": "velocitysocket",
+  "version": "0.0.1",
+  "description": "Velocity NodeJS Socket Server - This is the CanBus Master Server for",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2",
+    "mustache": "^4.2.0",
+    "mustache-express": "^1.3.2",
+    "socket.io": "^4.4.1"
+  }
+}
